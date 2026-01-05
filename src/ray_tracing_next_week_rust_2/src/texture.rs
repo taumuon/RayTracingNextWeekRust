@@ -1,0 +1,5 @@
+use crate::vec3::Vec3;
+
+pub trait Texture : Send + Sync {
+    fn color_value(&self, u: f64, v: f64, p: Vec3) -> Vec3;
+}
