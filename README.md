@@ -13,3 +13,5 @@ and invoke:
 cargo run --release 9
 
 The last parameter is the scene parameter (only scene 9 implemented for ray_tracing_next_week_rust_2)
+
+https://taumuon.co.uk/blog/2026-01-31-ray-tracing-next-week-in-rust-and-csharp/
